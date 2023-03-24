@@ -1,0 +1,40 @@
+table{
+    width: 100%;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+   /*border-spacing: 5px;*/
+  padding: 5px;
+
+}
+caption{
+    color: #f72585;
+    font-family: Georgia, 'Times New Roman', Times, serif, serif;
+    font-size: 45px;
+    line-height: 70px;
+}
+th{
+    color: #edf6f9;
+    background-color: #023047;
+}
+/*Propiedad para renglones pares*/
+tr:nth-child(even){
+    background-color: #f1faee;
+}
+/*Propiedad para renglones impares*/
+tr:nth-child(odd){
+    background-color: #a8dadc;
+}
+
+
+/*
+td {
+  text-align: center;
+}
+th {
+  text-align: left;
+}*/
+

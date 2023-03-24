@@ -1,0 +1,14 @@
+los <section> definen regionesy remplazan al <div>.
+los <atricle> son elementos independientes y pueden tener hasta su titulo.
+los <aside> son para agregar informacion lateral e informacion adicional
+a los articulos.
+los <header> y <footer> son los cabezeros y pies de pagina, facilitan a los 
+buscadores por ejemplo a google
+los <hgruop> se pueden agrupar para diferentes titulos
+<nav> se pueden definir distintas barras de navegacion
+
+existen mas...
+
+
+los elementos semanticos ayudan a los navegadores a clasificar la informacion 
+que estan buscando 
